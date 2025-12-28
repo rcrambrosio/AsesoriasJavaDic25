@@ -1,0 +1,2 @@
+module AsesoriasJavaDic25 {
+}
